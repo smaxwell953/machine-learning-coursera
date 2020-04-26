@@ -4,4 +4,7 @@ My work in the Machine Learning course:
 <li>Logistic Regression</li>
 <li>Neural Networks Forward Propagation</li>
 <li>Neural Networks Backpropagation</li>
-<li>Improving Learning Algorithm</li></ol>
+<li>Improving Learning Algorithm</li>
+<li>Support Vector Machines</li>
+<li>Unsupervised Learning</li>
+<li>Anomaly Detection</li></ol>
